@@ -13,7 +13,7 @@
 > - 차량의 잔여 배터리 용량 확인
 
 ## 구현된 모듈 예시
-![CenterFascia](./image/CenterFascia.jpg)
+![CenterFascia](./image/CenterFascia.png)
 자율주행 차량내 차량 센터페시아 구현 UI
 
 ## 역할 분담
